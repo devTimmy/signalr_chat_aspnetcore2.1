@@ -1,0 +1,21 @@
+{
+  "author": "Timothy Macharia",
+  "description": "Playing with SignalR in asp.net core 2.1 by building a simple chat application.",
+  "keywords": [
+    "signalr",
+    "chat",
+    "aspnetcore2.1"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "signalr_chat_sample",
+  "repository": "https://github.com/devTimmy/signalr_chat_aspnetcore2.1.git",
+  "readme": "https://github.com/devTimmy/signalr_chat_aspnetcore2.1/blob/master/README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.3"
+  }
+}
